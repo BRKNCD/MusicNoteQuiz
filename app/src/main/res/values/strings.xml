@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Music Note Quiz</string>
+    <string name="questionScale">Which scale or scales are represented in the picture?</string>
+</resources>
